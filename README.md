@@ -24,7 +24,7 @@ Official PyTorch implementation by Facebook Research: [DiT](https://github.com/f
 
 ## Preview
 
-<img src="./img/latent_DiT.png" width="450px" alt="DiT Architecture" />
+<img src="./img/latentdit.png" width="450px" alt="DiT Architecture" />
 
 ### Sample Outputs
 
